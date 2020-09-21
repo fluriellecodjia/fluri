@@ -1,0 +1,39 @@
+body{
+    background-image: url("Fond/d.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    font-size:17px;
+}
+legend{
+         font-size: 50px;
+         color:greenyellow;
+}
+label{
+        font-size: 20px;
+        color:green;
+}
+input[type="submit"] {
+   text-align: center;
+   background-color: burlywood;
+    border-radius: 10px ;
+    
+}
+input[type="Laisser un commentaire"]{
+width: 360px;
+
+}
+input[type="e-mail"]{
+    width: 405px; 
+}
+input[type="text"]{
+    width: 390px;   
+}
+
+.form{
+    border: 1px black solid;
+    width: 950PX;
+    text-align: center;
+    
+}
